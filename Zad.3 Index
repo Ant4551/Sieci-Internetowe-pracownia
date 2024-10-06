@@ -98,20 +98,20 @@
 <br><br><br> 
 <h2> najpopularniejsze procesory </h2> 
 <OL TYPE=A START=3>  
-<LI> Intel Core i9 14900K
-<LI> AMD Ryzen 9
-<LI> Intel Core i7 14700K
+<LI> Intel Core i9 14900F
+<LI> AMD Ryzen 9 7900X3D
+<LI> Intel Core i7 14700F
 </OL> 
 <OL TYPE=B START=2>  
-<LI> Intel Core i5 12400K
-<LI> AMD Ryzen 7
-<LI> Intel Core i3
+<LI> Intel Core i5 12400F
+<LI> AMD Ryzen 7 7700X3D
+<LI> Intel Core i3 12100F
 </OL> 
 <OL TYPE=C START=1>  
 <LI> Apple M1 
-<LI> AMD Ryzen 5
+<LI> AMD Ryzen 5 7600X
 <LI> AMD Athlon 3000G
-</OL> 
+</OL>
 <br><br><br>
 <h3>O komputerach</h3>
 <UL>  
